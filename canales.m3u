@@ -32,8 +32,7 @@ http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8?PlaylistM3
 https://servilive.com:3149/live/jn19tvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="699" tvg-name="Ovacion" tvg-logo="https://www.m3u.cl/logo/699_Ovacion.png", Ovacion | PE
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1115" tvg-name="Tumpis TV" tvg-logo="https://www.m3u.cl/logo/1115_Tumpis_TV.png", Tumpis TV | PE
-https://servilive.com:3531/live/tumpistvlive.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="701" tvg-name="TV Cosmos 15.1" tvg-logo="https://www.m3u.cl/logo/701_TV_Cosmos_15_1.png", TV Cosmos 15.1 | PE
 https://5790d294af2dc.streamlock.net:443/8134/8134/playlist.m3u8?PlaylistM3UCL
 
@@ -45,12 +44,10 @@ https://video2.lhdserver.es/asiritv/live.m3u8
 https://v4.tustreaming.cl/atmtv/index.m3u8
 #EXTINF:-1 tvg-id="BellaAsuncionTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="" group-title="Undefined",Bella Asuncion TV (720p) [Not 24/7]
 https://tvdatta.com:3602/stream/play.m3u8
-#EXTINF:-1 tvg-id="BeXtremeTVLima.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/d9n0sOZ.png" group-title="Undefined",BeXtreme TV (Lima) (1080p) [Geo-blocked]
-https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RN5wbXm.png" group-title="News",Canal 26 (720p)
 http://200.115.193.177/live/26hd-720/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="PE" tvg-language="" tvg-logo="" group-title="Undefined",CharapaTV (Pucallpa) [Not 24/7]
-https://cloudvideo.servers10.com:8081/8168/index.m3u8
+
 #EXTINF:-1 tvg-id="ClipsTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/clipstv/picture?width=320&height=320" group-title="Undefined",ClipsTV (Ica) (360p) [Not 24/7]
 https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
 #EXTINF:-1 tvg-id="CRTelevisionMoyobamba.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/crtvmoyobamba/picture?width=320&height=320" group-title="Undefined",CR Television (Moyobamba) (720p) [Not 24/7]
@@ -59,8 +56,7 @@ https://live.obslivestream.com/crtvmux/index.m3u8
 https://v4.tustreaming.cl/s1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-country="ES;HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="Auto",El Garage TV (480p) [Not 24/7]
-http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+
 #EXTINF:-1 tvg-id="EWTNelCanalCatolico.us" tvg-country="ES;HISPAM" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/cl_ewtn_m.png" group-title="Religious",EWTN el Canal Católico (720p) [Not 24/7]
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="GalacticaTVPeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/RCGalacticatv/picture?width=320&height=320" group-title="Music",Galáctica TV (Peru) (1080p) [Not 24/7]
@@ -70,43 +66,20 @@ https://live.obslivestream.com/geniostvmux/index.m3u8
 #EXTINF:-1 tvg-id="HiperconectadosTV.cl" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/hiperconectadostv/picture?width=320&height=320" group-title="Science",Hiperconectados Televisión (720p)
 https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HuantaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/HuantaTV/picture?width=320&height=320" group-title="Undefined",Huanta TV (288p) [Not 24/7]
-https://inliveserver.com:1936/19002/19002/playlist.m3u8
 #EXTINF:-1 tvg-id="IdentidadTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/IDENTIDADTVOFICIAL/picture?width=320&height=320" group-title="News",Identidad TV (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
-#EXTINF:-1 tvg-id="ImperialTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/radioimperialtv/picture?width=320&height=320" group-title="Undefined",Imperial Televisión (Huancayo) (720p) [Not 24/7]
-https://stmv.panel.grupolimalive.com/imperu/imperu/playlist.m3u8
-#EXTINF:-1 tvg-id="LaAbeja.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/laabeja.pe/picture?width=320&height=320" group-title="News",La Abeja (720p) [Not 24/7]
-http://cdnhd.iblups.com/hls/F87ppt1YAT.m3u8
-#EXTINF:-1 tvg-id="LotPlusTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Lotplustv2021/picture?width=320&height=320" group-title="Undefined",LotPlus TV (Chiclayo) (720p) [Not 24/7]
-https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
-#EXTINF:-1 tvg-id="MasterTVTarapoto.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/169404973238869/picture?width=320&height=320" group-title="Undefined",Master TV (Tarapoto) (480p) [Not 24/7]
-https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
-#EXTINF:-1 tvg-id="MaticesTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/aldiaconmatices/picture?width=320&height=320" group-title="Undefined",MaticesTV (Cañete) (720p) [Not 24/7]
-http://v4.tustreaming.cl/matices/index.m3u8
-#EXTINF:-1 tvg-id="NacionalTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/NacionalTVComunicaciones/picture?width=320&height=320" group-title="General",NacionalTV (720p) [Not 24/7]
-https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="NuevoTiempo.br" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religious",Nuevo Tiempo (720p) [Not 24/7]
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="OndaDigital.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3R2emx7.jpg" group-title="General",Onda Digital (720p) [Not 24/7]
-https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
-#EXTINF:-1 tvg-id="OrientalTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/OrientalTV.pe/picture?width=320&height=320" group-title="Undefined",Oriental TV 21 (Pucallpa) (480p) [Not 24/7]
-https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8
-#EXTINF:-1 tvg-id="PeruChannel.br" tvg-country="BR;PE" tvg-language="Portuguese;Spanish" tvg-logo="https://i.imgur.com/01KEiEp.png" group-title="General",Perú Channel (720p) [Not 24/7]
-https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="QTTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/QTTelevision/picture?width=320&height=320" group-title="Undefined",QT Televisión (Cuzco) (720p) [Not 24/7]
 https://servilive.com:3753/live/qosqotimeslive.m3u8
-#EXTINF:-1 tvg-id="Quillavision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/459651607763457/picture?width=320&height=320" group-title="Undefined",Quillavision (Cuzco) (720p) [Not 24/7]
-http://v4.tustreaming.cl/quillavision/index.m3u8
-#EXTINF:-1 tvg-id="RadioChalaca.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/radiochalacafm/picture?width=320&height=320" group-title="Music",Radio Chalaca (720p) [Not 24/7]
-https://megastreamm.com:3611/stream/play.m3u8
+
 #EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/radiosanborja/picture?width=320&height=320" group-title="Music",Radio San Borja TV (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="PE" tvg-language="" tvg-logo="" group-title="Undefined",RadioInka (Abancay) (1080p) [Not 24/7]
 https://tv.portalexpress.es:3175/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="RadioTVOrienteYurimaguas.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/www.roriente.org/picture?width=320&height=320" group-title="Undefined",RadioTV Oriente (Yurimaguas) (1080p) [Not 24/7]
-https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RetroPlus.cl" tvg-country="CL;PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Music",Retro Plus (720p)
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroPlus2.cl" tvg-country="CL;PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Music",Retro Plus 2 (720p)
@@ -117,26 +90,22 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playli
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVTotalYurimaguas.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/rtvtotal/picture?width=320&height=320" group-title="News",RTV Total (Yurimaguas) (480p) [Not 24/7]
 https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
-#EXTINF:-1 tvg-id="SolStereoTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/solstereotvcasma/picture?width=320&height=320" group-title="Undefined",Sol Stereo TV (Casma) (360p) [Not 24/7]
-https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SolarTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/TELEVISIONSOLAR/picture?width=320&height=320" group-title="Undefined",Solar Televisión (Abancay) (360p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://ssh101.com/
 https://tna5.bozztv.com/televisionsolar/index.m3u8
 
 #EXTINF:-1 tvg-id="SumacTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/sumac2021/picture?width=320&height=320" group-title="Undefined",Sumac TV (Lima) (480p) [Not 24/7]
 https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8
-#EXTINF:-1 tvg-id="SuperCanalYurimaguas.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/supercanalyuri/picture?width=320&height=320" group-title="Undefined",Super Canal (Yurimaguas) (720p) [Not 24/7]
-https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
+
 #EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español (1080p)
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Tele2000.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Tele2000oficial/picture?width=320&height=320" group-title="Undefined",Tele2000 (Ayacucho) (720p) [Not 24/7]
 https://servilive.com:3126/live/tele2000live.m3u8
-#EXTINF:-1 tvg-id="Tevex.cl" tvg-country="CL;HISPAM" tvg-language="Spanish" tvg-logo="https://tevex.cl/wp-content/uploads/2021/01/logo_tevex_formato_3.svg" group-title="Business",Tevex (720p) [Not 24/7]
-https://v4.tustreaming.cl/tevexinter/index.m3u8
+
 #EXTINF:-1 tvg-id="TopFMTVAtalaya.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/radiotopf/picture?width=320&height=320" group-title="Undefined",Top FM TV (Atalaya) (240p) [Not 24/7]
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="PE" tvg-language="" tvg-logo="" group-title="Undefined",Tropical TV (Puerto Maldonado) (720p) [Not 24/7]
-https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TRT World (720p) [Not 24/7]
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TVenLinea.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/TVenLineaCanalDigital/picture?width=320&height=320" group-title="Undefined",TVenLinea (Cuzco) (720p) [Not 24/7]
@@ -145,328 +114,35 @@ https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
 https://tvdatta.com:3211/stream/play.m3u8
 #EXTINF:-1 tvg-id="TVGAmerica.es" tvg-country="ES;HISPAM" tvg-language="Galician" tvg-logo="https://i.imgur.com/1Z6svKc.jpg" group-title="General",TVG América (720p)
 https://america-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="UchuTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="" group-title="Undefined",Uchu TV (Cusco) (720p) [Not 24/7]
-#EXTVLCOPT:http-referrer=https://ssh101.com/
-https://tna5.bozztv.com/Cusco/index.m3u8
+
 #EXTINF:-1 tvg-id="UNWebTV.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/lPyJhBN.png" group-title="News",UN Web TV (540p)
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-id="Unitel.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Unitelperu/picture?width=320&height=320" group-title="Undefined",Unitel (Huancayo) (720p) [Not 24/7]
-https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="VallenatoInternacional.us" tvg-country="HISPAM;US" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/valleinalradio/picture?width=320&height=320" group-title="Music",Vallenato Internacional (720p) [Not 24/7]
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 #EXTINF:-1 tvg-id="ViaAltomayo.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/viaaltomayo/picture?width=320&height=320" group-title="Undefined",Vía Altomayo (720p) [Not 24/7]
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/heY1Ppv.png" group-title="Canales de Deportes", -[COLOR red]Canales de Deportes[/COLOR]-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7tmZnMy.png" group-title="Canales de Deportes", Viasat Sport | SD
-http://persik.by/stream/2944/263250/10249.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x5jNF2N.png" group-title="Canales de Deportes", MLB | HD
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IJh5DjE.png" group-title="Canales de Deportes", Abu Dhabi Sports | SD
-http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IJh5DjE.png" group-title="Canales de Deportes", Abu Dhabi Sports 2 | SD
-http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bNXH4cj.png" group-title="Canales de Deportes", Real Madrid TV | SD
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B9hF2TH.png" group-title="Canales de Deportes", Fight Time | HD
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hoo00j4.jpg" group-title="Canales de Deportes", Stadium Sports Network | SD
-https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2HGma9m.png" group-title="Canales de Deportes", CDO | HD
-http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8?laope.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8cnXJcu.png" group-title="Canales de Deportes", Red Bull TV | FHD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O4eaaVw.png" group-title="Canales de Deportes", Real Madrid TV | SD
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BskLVm4.jpg" group-title="Canales de Deportes", Telecaribe Deportes | HD
-http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8?laope.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KO9XhLU.png" group-title="Canales de Deportes", Sporting | HD
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8?laope.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SlGP0BA.png" group-title="Canales de Deportes", ESPN 2 USA | HD
-http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/egIliuT.png" group-title="Canales de Deportes", Fox Sports Racing | HD
-http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0idlXyN.png" group-title="Canales de Deportes", Dubai Sports | HD
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AsV1OSU.png" group-title="Canales de Deportes", All Sports | SD
-http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K2XHhWW.png" group-title="Canales de Deportes", Action Sports
-https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png" group-title="Canales de Deportes", Big Ten Network
-http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.lepoint.fr/images/2016/06/07/4196567lpw-4196810-jpg_3591288.jpg" group-title="Canales de Deportes", BFM Sport
-http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reQVU/0c8e61f2a0.png" group-title="Canales de Deportes", DeporTV
-http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://elpinguino.com/uploads/imagenes/a4d656f47bdac68143488c2e0990c407.jpg" group-title="Canales de Deportes", Pinguino TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.supersporting.net/wp-content/uploads/2014/06/Sporting-TV1.jpg" group-title="Canales de Deportes", Sporting Tv
-http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/nB5fs/d0fbb8562f.png" group-title="Canales de Deportes", Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="http://www.grupocomunica.com/wp-content/uploads/2016/05/Radio-Betis-y-Betis-TV.jpg" group-title="Canales de Deportes", Betis Tv
-http://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bayern-munchen-logo-68D0CB94C3-seeklogo.com.png" group-title="Canales de Deportes", Bayern Munchen TV
-http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MiEzyuyLLtA/WQpQu7YzxpI/AAAAAAAAFtw/9aZiAEBmdQgVEkOfnf3Audfd-jiHNEttwCLcB/s1600/extreme_sports_fr.png" group-title="Canales de Deportes", Extreme Sports
 http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/144/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://sportscar365.com/wp-content/uploads/2015/02/foxsportsracing.jpg" group-title="Canales de Deportes", Fox Sports Racing
-http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/bolivia-deportes.png?fit=500%2C300" group-title="Canales de Deportes", Bolivia Deportes
-http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/Telecaribe_deportes_2017.png/revision/latest?cb=20171006040233" group-title="Canales de Deportes", Telecaribe Deportes
-http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Deportes", EDGEsport
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/817806134702702592/fsfGoMK3_400x400.jpg" group-title="Canales de Deportes", Fight Time
-http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w984445701_b664000.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ca/08/48/ca0848e67b578790c03ffc5772616042.jpg" group-title="Canales de Deportes", Viasat Sports
 http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/160/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://i63.tinypic.com/2l1jqf.png" group-title="Canales de Deportes", DSport (UK)
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Deportes", SPORTSMAX
-http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
-
-#EXTINF:-1 tvg-logo="https://satcesc.com/web/wp-content/uploads/2014/10/setanta-sports.jpg" group-title="Canales de Deportes", Setanta Sports
-http://ott-cdn.ucom.am/s81/04.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/227.png" group-title="Canales de Deportes", Setanta Sports +
-http://ott-cdn.ucom.am/s82/04.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/69/Esporte_Interativo_BR.png" group-title="Canales de Deportes", Esporte Interativo
-http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_2500_av-p.m3u8
-
-#*****************************
-#*****************************
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zsiBRDv.png" group-title="Canales de Noticias", -[COLOR red]Canales de Noticias[/COLOR]-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uy91U7w.png" group-title="Canales de Noticias", Sky News | HD
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uy91U7w.png" group-title="Canales de Noticias", Sky News (Alt) | HD
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xFSBik0.png" group-title="Canales de Noticias", The Weather Channel | HD
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tMrDZ6b.png" group-title="Canales de Noticias", Weather Nation | HD
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="Canales de Noticias", RT Español | HD
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="Canales de Noticias", RT News | HD
-https://rt-news.secure.footprint.net/1103.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="Canales de Noticias", RT USA | HD
-https://rt-usa.secure.footprint.net/1105.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="Canales de Noticias", RT UK | HD
-https://rt-uk.secure.footprint.net/1106.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="Canales de Noticias", RT Docu | HD
-https://rt-doc.secure.footprint.net/1101.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PLpyQsV.png" group-title="Canales de Noticias", TRT World | FHD
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="Canales de Noticias", Bloomberg TV US | HD
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="Canales de Noticias", Bloomberg TV Europe | HD
-https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="Canales de Noticias", Bloomberg TV Asia | HD
-https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="Canales de Noticias", Bloomberg TV Australia | HD
-https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="Canales de Noticias", Bloomberg TV Politics Live Event | HD
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_politics.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="Canales de Noticias", Bloomberg TV US Live Event | HD
-https://liveproduseast.akamaized.net/btv/desktop/us_event.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="Canales de Noticias", Bloomberg TV EMEA Live Event | HD
-https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="Canales de Noticias", Bloomberg TV Asia Live Event | HD
-https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_event.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hov1cKZ.png" group-title="Canales de Noticias", TV5 Monde Info | FHD
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wRYAQ24.png" group-title="Canales de Noticias", NHK World | HD
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wRYAQ24.png" group-title="Canales de Noticias", NHK World (Alt)| HD
-http://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="Canales de Noticias", Deutsche Welle Latino | SD
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="Canales de Noticias", Deutsche Welle en Ingles | SD
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="Canales de Noticias", Deutsche Welle | SD
-http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="Canales de Noticias", France 24 | HD
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gswmnWM.png" group-title="Canales de Noticias", France 24 en Español | HD
-http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fyOjHZ8.png" group-title="Canales de Noticias", Arirang | HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tlU5Unv.png" group-title="Canales de Noticias", NOTV 41 New Orleans - Louisiana | HD
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e8a18XH.png" group-title="Canales de Noticias", London Live | HD
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zZtoqgX.png" group-title="Canales de Noticias", CBS News | HD
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LGONAFN.png" group-title="Canales de Noticias", WGN Chicago | HD
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oEFkLbn.jpg" group-title="Canales de Noticias", TBD | HD
-http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5ox1YFd.png" group-title="Canales de Noticias", CTV News Live Events 1 | HD
-http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5ox1YFd.png" group-title="Canales de Noticias", CTV News Live Events 2 | HD
-http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5ox1YFd.png" group-title="Canales de Noticias", CTV News Live Events 3 | HD
-http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5ox1YFd.png" group-title="Canales de Noticias", CTV News Live Events 4 | HD
-http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WFXK1X3.png" group-title="Canales de Noticias", CNBC World | SD
-http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y0oiMPs.jpg" group-title="Canales de Noticias", Canal Judicial
-http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-D1Z6emsTKE0/AAAAAAAAAAI/AAAAAAAAAAA/46wxJGxiRkc/s176-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Canales de Noticias", DW Amerika
-http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_5_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BFMMPwP.png" group-title="Canales de Noticias", France 24
-http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mwdSw/26eea6807c.png" group-title="Canales de Noticias", Milenio TV
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.mediavyasa.com.mx/archivos/representantes/logo/logoteleformula.jpg" group-title="Canales de Noticias", TELEFORMULA
-http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.pctvcanales.mx/Portals/_default/Skins/Incredible/css/tvc/slide/tvc-63829.jpg" group-title="Canales de Noticias", Onda Tv
-https://edge1o.live.opencaster.com/caster/GBoGriengfex.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/surtv.mx/wp-content/uploads/2018/05/SURTV-logo-oficial-sin-fondo-copia-1.png" group-title="Canales de Noticias", Sur Tv
-https://59802217c6db4.streamlock.net/surtv/videosurtv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.abctelefonos.com/images/comercios/289120_60288_original.jpg" group-title="Canales de Noticias", Canal 26
 http://200.115.193.177/live/26hd-720/.m3u8
-
-#EXTINF:-1 tvg-logo="http://static.azteca.com/imagenes/2018/47/hechosnocheenvivo-2272004.jpg" group-title="Canales de Noticias", Hechos Tv
-http://37.187.7.106/hechostv/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tvcubana.icrt.cu/images/stories/telesur.png" group-title="Canales de Noticias", TeleSUR
-https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.weathernationtv.com/app/uploads/WN-logo-Full.png" group-title="Canales de Noticias", Weather Nation Tv
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/71/dd/2c/71dd2cc171a0e869d715628eeae965a3.jpg" group-title="Canales de Noticias", Weather Channel
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://s24.postimg.org/w4ih3sa1h/image.png" group-title="Canales de Noticias", ABC NEWS
-https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mVTac/49057b2eb0.png" group-title="Canales de Noticias", Bloomberg USA
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mVTac/49057b2eb0.png" group-title="Canales de Noticias", Bloomberg Europe
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-
-#EXTINF:-1 tvg-logo="http://photocall.tv/images/cbs.png" group-title="Canales de Noticias", CBS
-http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-
-#EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/C-SPAN_Logo2018.png" group-title="Canales de Noticias", C-SPAN
-https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tv14.net/wp-content/uploads/2010/09/C-SPAN-2.gif" group-title="Canales de Noticias", C-SPAN 2
-https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/01_logo/c-span3-tv.jpg" group-title="Canales de Noticias", C-SPAN 3
-https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="Canales de Noticias", DW NEWS
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.famouslogos.us/images/nbc-logo.jpg" group-title="Canales de Noticias", NBC
-http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.netkabel.net.mk/images/sampledata/logo/crainews24.png" group-title="Canales de Noticias", RAINEWS24
-http://b2.stream8.rai.it/live/smil%3Arnews1_android.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://channelpear.com/images/skyNEWS.jpg" group-title="Canales de Noticias", Sky NEWS
-http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.voanoticias.com/Content/responsive/VOA/img/webApp/ico-192x192.png" group-title="Canales de Noticias", VoA
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Syrian_News_Logo.png/220px-Syrian_News_Logo.png" group-title="Canales de Noticias", Syria News
-http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Rp6PKpt.jpg" group-title="Canales de Noticias", WGN Chicago
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9gHjXmn.png" group-title="Canales de Noticias", NHK World
-http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u6UOgvd.png" group-title="Canales Argentinos", -[COLOR red]Canales Argentinos[/COLOR]-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A64YheQ.jpg" group-title="Canales Argentinos", Net TV | HD
-https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m504ZL8.png" group-title="Canales Argentinos", Canal 26 | HD
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
@@ -474,55 +150,17 @@ http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xu8lnw9.png" group-title="Canales Argentinos", Telemax | HD
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oAdVLb8.png" group-title="Canales Argentinos", Music Top | HD
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qmFK5y8.gif" group-title="Canales Argentinos", Canal Provincial | SD
-http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oiW6vgk.jpg" group-title="Canales Argentinos", Litus | HD
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DsDiEKl.jpg" group-title="Canales Argentinos", TreceMax TV | SD
-http://coninfo.net:1935/13maxhd/live_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6R4VLDZ.jpg" group-title="Canales Argentinos", El Garaje TV | SD
-http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dIUsoCC.jpg" group-title="Canales Argentinos", Uni teve | HD
-http://stmv1.questreaming.com/uniteve/uniteve/playlist.m3u8?wowzasessionid=1242977139
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oSApjUM.png" group-title="Canales Argentinos", 13 Max | HD
-http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ovjxL5k.png" group-title="Canales Argentinos", Multivision | SD
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gJqPOCF.png" group-title="Canales Argentinos", 247 Noticias | SD
-http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gJqPOCF.png" group-title="Canales Argentinos", Tec TV | SD
-http://tec_tv.secure2.footprint.net/egress/bhandler/streamroot_lsd2latam/tec_tv/manifest.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nr6p6Fo.png" group-title="Canales Argentinos", Multivision Federal | SD | Salta
 http://panel.dattalive.com:1935/8250/8250/chunklist_w1202004290.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pCjmwLn.png" group-title="Canales Argentinos", Canal 6 Mar del Plata | SD
-http://videostream.shockmedia.com.ar:1935/canal6mardelplata/canal6mardelplata/chunklist_w1285511827.m3u8
-
-
-#*****************************
-#*****************************
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1QZNvHK.jpg" group-title="Canales de Animacion", -[COLOR red]Canales de Animacion[/COLOR]-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xAsLsmQ.png" group-title="Canales de Animacion", Adult Swim: Williams Stream | FHD
 https://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_7.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YFWFLPI.png" group-title="Canales de Animacion", Aniplus TV (Asia) | HD
-http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
-http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/02.m3u8
-http://210.210.155.35/dr9445/h/h02/index.m3u8
-http://210.210.155.35/dr9445/h/h02/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b0be1e3ddbc37ae133fd52e75a94fe0.webp" group-title="Canales de Animacion", Retro Cartoon | SD
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
@@ -532,95 +170,15 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w676034648.m3u8
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 https://stmv1.srvif.com/animetv/animetv/chunklist_w1769730028.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3ayHwUl.png" group-title="Canales de Animacion", Gong (Francia) | SD
-http://51.254.215.79/appflux/gong/GONG/gong_0640/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZGkQ1Dk.jpg" group-title="Canales de Animacion", Anime All Day | HD
-http://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=1&deviceId=&deviceVersion=&appVersion=&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S2RtpI1.png" group-title="Canales de Animacion", Tacho Pistacho | SD
-https://rcnhd.cdn.net.co/live03/tacho_480p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDJ2JKc.png" group-title="Canales de Animacion", IGN | HD
-http://stitcher.pluto.tv/stitch/hls/channel/561c5f613286e48904fb2677/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-country="ES;HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8DWQeMz.png" group-title="Canales de Animacion",Anime Zone TV (480p) [Not 24/7]
 http://azxtv.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVAnimeAccion.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" group-title="Canales de Animacion",Pluto TV Animé Acción (684p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVAnimeClasico.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/6054acc871ec430007f54c7d/colorLogoPNG.png" group-title="Canales de Animacion",Pluto TV Anime Clásico (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c7d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Canales de Animacion", Locomotion | SD
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-http://51.222.85.85:81/hls/loco/34353063000.ts
 
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a2da9f99-dd2f-4581-bcde-f9bbea999fdb/dcpfeg1-889f1d54-9f98-47d1-87e2-31f9103e2e01.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2EyZGE5Zjk5LWRkMmYtNDU4MS1iY2RlLWY5YmJlYTk5OWZkYlwvZGNwZmVnMS04ODlmMWQ1NC05Zjk4LTQ3ZDEtODdlMi0zMWY5MTAzZTJlMDEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.e9WbdzFKsQchtSR1wBZmdY1WgcLW7wS5AomJVJMCTcA" group-title="Canales de Animacion", Locomotion TV | SD (480p) [Not 24/7]
 http://51.222.85.85:81/hls/loco/index.m3u8
 http://51.222.85.85:81/hls/loco/34353063000.ts
 
-#EXTINF:-1 tvg-logo="" group-title="Canales de Cultura", -[COLOR red]Canales de Cultura[/COLOR]-
-
-#EXTINF:-1 tvg-logo="https://image.ibb.co/hWTUGF/NASA_logo.png" group-title="Canales de Cultura", NASA TV
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mbLha/55295e0162.PNG" group-title="Canales de Cultura", H2
-http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/msJjE/f96602e474.png" group-title="Canales de Cultura", NatGeo
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mb2Rd/9c56f73248.png" group-title="Canales de Cultura", NatGeo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-
-#EXTINF:-1 tvg-logo="http://i2.wp.com/queenslatino.com/wp-content/uploads/2011/09/Nat-Geo-Mundo.jpg" group-title="Canales de Cultura", NatGeo Mundo
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
-
-#EXTINF:-1 tvg-logo="http://tvcosmos.pe/wp-content/uploads/2017/01/logo-tv-cosmos-vive-contigo-final.png" group-title="Canales de Cultura", TV Cosmos
-http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://s20916.pcdn.co/wp-content/uploads/2017/02/Cooking_Channel_live_stream.png" group-title="Canales de Cultura", Cooking Channel
-http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cultura", TMZ
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-MJZ3A3u6E78/U-JWxeGtvrI/AAAAAAAACzg/mFikMtH2yW0/s1600/life_design_tv.png" group-title="Canales de Cultura", Lifedesign
-http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.diesl.com/wp-content/uploads/2011/12/world-fashion-channel.jpg" group-title="Canales de Cultura", World Fashion
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://a1.mzstatic.com/us/r30/Purple6/v4/67/f6/4f/67f64f30-a881-ab3d-79b0-3169a8cca3ae/icon128-2x.png" group-title="Canales de Cultura", TWiT
-http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" group-title="Canales de Cultura", World Fishing Network
-http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/1560.gif" group-title="Canales de Cultura", Genial Tv
-http://v3.tustreaming.cl/genialtv/live1/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KGaH3pH.png" group-title="Canales de Cultura", Living Outdoors
-https://edge1.dashmedia.tv/onestudio/Living_Outdoors/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Tc_g.jpg" group-title="Canales de Cultura", Travel HD
-http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.londonlive.co.uk/assets/images/logo-white.png" group-title="Canales de Cultura", London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cultura", 24 TV CULTURALES
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w450881441_b964000_sles.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zsiBRDv.png" group-title="Canales de Cine", -[COLOR red]Canales de Cine[/COLOR]-
-
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-movies-hd.png" group-title="Canales de Cine", Fox Movies
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/-Atdq5-hrhmg/TvtVTY_6bRI/AAAAAAAAAxM/0NEOw_seIho/s1600/maxprime.jpg" group-title="Canales de Cine", Max Prime
-http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://logowow.net/logos/lYUQ7TfdF.png" group-title="Canales de Cine", Panico
 http://170.178.189.66:1935/live/Stream1/.m3u8
@@ -628,298 +186,17 @@ http://170.178.189.66:1935/live/Stream1/.m3u8
 #EXTINF:-1 tvg-logo="http://hostlagarto.com/streaming/wp-content/uploads/2018/02/logo-de-pu%C3%B1al-tv.png" group-title="Canales de Cine", Puñal Tv
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Frecuencia Musical Tv
-http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://img.over-blog.com/600x309/0/20/49/74/logos-hd/CinePlus/cine-eotion.jpg" group-title="Canales de Cine", CINE +
-http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
-
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/3129x1z_th.jpg" group-title="Canales de Cine", Zee mundo
-https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", AMC
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", GOSPEL MOVIES
-http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.nowonsocmed.com/iptv/logo/raimovie.png" group-title="Canales de Cine", Ray Movie
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Pop
-https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Pluto TV Movies 1
-https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Pluto TV Movies 2
-https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Star Movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Star World
-http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cJaeQA7.png" group-title="Canales de Cine", Western
-https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo y Blue Demon en el Mundo de los Muertos 1970
-https://archive.org/download/sanmumu70/sanmumu70.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo contra los Cazadores de Cabezas 1971
-https://archive.org/download/sancaz71/sancaz71.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo en la Mision Suicida 1971
-https://archive.org/download/sancaz71/sanmis71.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo contra la Hija de Frankestein 1971
-https://archive.org/download/sanhifran71/sanhifran71.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo contra la Mafia del Vicio 1971
-https://archive.org/download/sanhifran71/sanmavi71.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo y la Venganza de las Mujeres Vampiro 1970
-https://archive.org/download/sanmumu70/sanvevam70.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo contra los Jinetes del Terror 1970
-https://archive.org/download/sanca69/sanjite70.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo y Blue Demon contra los Monstruos 1969
-https://archive.org/download/sanca69/sanblumon69.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo y el Tesoro de Moctezuma 1968
-https://archive.org/download/sanbabra67/santemo68.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo contra Blue Demon en la Atlantida 1969
-https://archive.org/download/sanbabra67/sanbluat69.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo en la Operacion 67 1967
-https://archive.org/download/saneses66/sanop67.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo contra el Espectro del Estrangulador 1966
-https://archive.org/download/saneses66/saneses66.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo y Blue Demon contra el Poder Satanico 1964
-https://archive.org/download/sanbru64/sanposat64.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo en el Ataque de las Brujas 1964
-https://archive.org/download/sanbru64/sanbru64.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo en el Museo de Cera 1963
-https://archive.org/download/sanmuce63/sanmuce63.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo contra las Momias de Guanajuato 1972
-https://archive.org/download/sanmog72/sanmog72.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo en el Hotel de la Muerte 1963
-https://archive.org/download/sanhom63/sanhom63.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo frente a la muerte 1969
-https://archive.org/download/sanmu69/sanmu69.avi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", FARO VISION movies
-http://210.210.155.35/session/4c0d1c4a-3034-11e9-94bb-b59a8d9f4b5a/uq2663/h/h04/index2.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Cinema 1
-http://livecdnh1.tvanywhere.ae/hls/cin1/03.m3u8
-
-#*****************************
-#*****************************
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="Canales Colombianos", -[COLOR red]Canales Colombianos[/COLOR]-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dmHjzfS.png" group-title="Canales Colombianos", Tele Islas | SD
-http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J84cit3.jpg" group-title="Canales Colombianos", Telecaribe | HD
-http://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BskLVm4.jpg" group-title="Canales Colombianos", Telecaribe Deportes | HD
-http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xIkQGeZ.png" group-title="Canales Colombianos", RCN | HD
-https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xIkQGeZ.png" group-title="Canales Colombianos", RCN 2 | HD
-https://rcnhd.cdn.net.co/live02/rcnhd2_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M8AQ3lV.png" group-title="Canales Colombianos", NTN 24 | SD
-https://rcnhd.cdn.net.co/live04/ntn24.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Run1gEv.png" group-title="Canales Colombianos", Trece | HD
-https://cdn.logicideas.media/canaltrece-live/smil:canal13.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oy8PrH6.jpg" group-title="Canales Colombianos", Canal TRO | SD
-https://liveingesta118.cdnmedia.tv/canaltro2live/live.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8N2lW9C.png" group-title="Canales Españoles", -[COLOR red]Canales Españoles[/COLOR]-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hHaTdZk.png" group-title="Canales Españoles", La Xarxa | SD
-http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VlMzpJH.png" group-title="Canales Españoles", Canal 13 España | SD
-http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qUB3ggl.png" group-title="Canales Españoles", Lancelot TV | SD
-http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3TGxQ3O.png" group-title="Canales Españoles", ETBSAT | SD
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OKXbIr9.png" group-title="Canales Españoles", Lebrija TV | SD
-http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jl1Nnd4.png" group-title="Canales Españoles", TV Galicia America | SD
 http://america-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jl1Nnd4.png" group-title="Canales Españoles", TV Galicia Europa | SD
 http://europa-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7C9rreQ.png" group-title="Canales Españoles", Calle 13 | SD
-http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PrhB3SI.jpg" group-title="Canales Españoles", TeleSafor | HD
 http://video.telesafor.com/hls/video_high.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V4ig3Hn.png" group-title="Canales Españoles", 7TV | SD
-http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ROPlvzc.png" group-title="Canales Españoles", A Punt | SD
-https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oBBym9k.png" group-title="Canales Españoles", ETB 1 | HD
-https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oBBym9k.png" group-title="Canales Españoles", ETB 2 | HD
-https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oBBym9k.png" group-title="Canales Españoles", ETB 3 | SD
-https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G7JyLXg.jpg" group-title="Canales Españoles", Telemadrid | SD
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U0JcDHg.png" group-title="Canales Españoles", La Otra | SD
-http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/99mztxa.png" group-title="Canales Españoles", Canal Costa | HD
-http://stream.canalcostatv.es:1935/web/IKbtqOuj/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/omjtgw0.png" group-title="Canales Españoles", Canaria Sat Television | SD
-http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cZhkP9Q.png" group-title="Canales Españoles", Intereconomia TV | SD
-http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hr1LLrh.png" group-title="Canales Españoles", Cuatro | HD
-https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tq6xYkf.png" group-title="Canales Españoles", Telecinco | HD
-https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NPwasj0.png" group-title="Canales Españoles", Extremadura | SD
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TXHdLeZ.png" group-title="Canales Españoles", Canal 4 Tenerife | SD
-https://5940924978228.streamlock.net/Directo2/Directo2/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZGAUabe.png" group-title="Canales Españoles", Andalucia Cocina | SD
-https://593fa17dec176.streamlock.net:443/cscocina/cscocina.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k2T6u4G.png" group-title="Canales Españoles", Miami TV España | HD
-https://59ec5453559f0.streamlock.net/canal18/smil:canal18/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2N3zyn.png" group-title="Canales Españoles", FDF | HD
-https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SHfp18P.png" group-title="Canales Españoles", Divinity | HD
-http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5xBT6mH.png" group-title="Canales Españoles", Be Mad | HD
-https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ip8u3zy.png" group-title="Canales Españoles", Energy | HD
-https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L6rxSi6.png" group-title="Canales Españoles", Distrito TV | SD | Madrid
-https://cdn01.yowi.tv/KQRSDA7GDB/live-1000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gvG7eAN.png" group-title="Canales Españoles", Canal Sur Andalucía | SD
-http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/rtva/chunklist_b628000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S40QKpm.png" group-title="Canales Españoles", Canal Sur Andalucía Flamenco | SD
-https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/chunklist_w32442243.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zdU1PfU.png" group-title="Canales Españoles", Castilla-La Mancha Media | SD
-http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o1eE29d.png" group-title="Canales Españoles", mtmad 24h | HD
-https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M8b0g6X.png" group-title="Canales Españoles", Paramount Network | SD
-https://paramount-live.flumotion.com/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y4u1ax9.png" group-title="Canales Españoles", 7 Televalencia | SD
-https://live-edge-bhs-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/llive-500/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png" group-title="Canales Españoles", Antena 3 Internacional
-https://livestartover.atresmedia.com/antena3/bitrate_4.m3u8
-
-#EXTINF:-1 tvg-logo="http://vercanalestv.com/logos/cuatro.png" group-title="Canales Españoles", La Cuatro
-https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/iptvsmartv.files.wordpress.com/2017/04/telecinco_circular_500.png?ssl=1&w=450" group-title="Canales Españoles", Telecinco
-https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
-
-#EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20130403192100/logopedia/images/2/20/Lasexta_hd.png" group-title="Canales Españoles", La Sexta
-https://livestartover.atresmedia.com/lasexta/bitrate_4.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-C25_22MePpY/UE6O8Kl2JkI/AAAAAAAAEhU/PLSONECCKH8/s1600/13tvlogoviejo.jpg" group-title="Canales Españoles", 13 TV
-http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/rR8JA/fbaae3e6bb.png" group-title="Canales Españoles", TVE 24h
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@583029/index_1500_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-twjWLzywppo/VnBHIEtqgRI/AAAAAAAABOY/ZiwcFOt-rcg/s1600/rtvce.jpeg" group-title="Canales Españoles", Rtv ce
-http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/125px-Be_Mad_TV.svg.png" group-title="Canales Españoles", Be Mad
-https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
-
-#EXTINF:-1 tvg-logo="http://vertelevisor.com/logos/cosmo.png" group-title="Canales Españoles", COSMO TV
-http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Españoles", Divinity
-http://91.126.141.12:1935/live/smil:divinity.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-3QImK9KP2KE/TwOQkE7KC-I/AAAAAAAAERI/L4FEY3Jfa4k/s1600/5energy3.jpg" group-title="Canales Españoles", Energy
-https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/744781470946852864/nz8sp439.jpg" group-title="Canales Españoles", FDF
-http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/ten.png?ssl=1&w=450" group-title="Canales Españoles", Ten
-http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/dmax.png" group-title="Canales Españoles", DMAX España
-https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-wjCsk9ABEnU/VBQSesarpGI/AAAAAAAAIX4/XnQcO3YXX9w/s1600/canal%2Bde%2Bhistoria.png" group-title="Canales Españoles", Historia
-http://184.173.181.2:1935/8062/8062/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRONX6V4oteOIE8_uC0MqaShyw5-6ZP92XLlT5khwIvRQMDB1zpKxrQ9Mc" group-title="Canales Españoles", Lancelot TV
-http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/02_logo/canal_vasco_spain.jpg" group-title="Canales Españoles", TV Canal Vasco
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="http://telebasura.com/wp-content/2013/01/logo-telemadrid.jpg" group-title="Canales Españoles", Telemadrid
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
-
 #EXTINF:-1 tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Galicia-TV/Galicia-TV_.jpg" group-title="Canales Españoles", TV GALICIA
 http://america-crtvg.flumotion.com/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RLmLtpl.png" group-title="Canales Mexicanos", -[COLOR red]Canales Mexicanos[/COLOR]-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eGvLDVR.png" group-title="Canales Mexicanos", Canal 10 Chetumal | HD
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
@@ -927,240 +204,62 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="Canales Mexicanos", Multimedios Monterrey | HD
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="Canales Mexicanos", Multimedios Laguna | HD
-http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VHSjbEj.png" group-title="Canales Mexicanos", Milenio | SD
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/unesBrV.png" group-title="Canales Mexicanos", Ultra TV Puebla | HD
-https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/unesBrV.png" group-title="Canales Mexicanos", Ultra TV Aguacalientes | HD
-https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/897e9wy.png" group-title="Canales Mexicanos", Teleritmo | SD
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dFQBOLD.png" group-title="Canales Mexicanos", Canal Once IPN | HD
-http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dFQBOLD.png" group-title="Canales Mexicanos", Canal Once IPN  Int. | HD
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DpN7K62.png" group-title="Canales Mexicanos", Canal del Congreso | SD
-http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eFfX2fC.jpg" group-title="Canales Mexicanos", Canal 4 | SD
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qMgoMeO.png" group-title="Canales Mexicanos", Canal 20 Zacatecas | SD
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6xKwAuc.png" group-title="Canales Mexicanos", Capital 21 | SD
-http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hxpSI0R.png" group-title="Canales Mexicanos", RCG 2 | SD
 http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MeaSmiv.jpg" group-title="Canales Mexicanos", 15TV Sabinas | SD
-http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LEBQ8B5.png" group-title="Canales Mexicanos", RCG 3 | SD
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NsPz9Tr.png" group-title="Canales Mexicanos", RCG | SD
-http://wowzacontrol.com:1936/stream34/stream34/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YixQ4l.png" group-title="Canales Mexicanos", Telemar Campeche | SD
 http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kaRhACw.png" group-title="Canales Mexicanos", Sipse TV Cancun | HD
-https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
-
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/azteca-7.gif" group-title="Canales Mexicanos", Azteca 7
-http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="Canales Mexicanos", Canal Once
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w2131787481_b1300000_slesp.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg" group-title="Canales Mexicanos", Azteca Uno
-http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://nrtmexico.mx/site/images/sampledata/icetheme/slideshow/c4_slide_a.jpg" group-title="Canales Mexicanos", Canal 4 Monclova
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.rcgespectaculares.com.mx/images/rcg-logo-2014-288.png" group-title="Canales Mexicanos", RCG TV1
-http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.rcgespectaculares.com.mx/images/rcg-logo-2014-288.png" group-title="Canales Mexicanos", RCG TV2
 http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://is2.mzstatic.com/image/thumb/Purple71/v4/5d/2f/1c/5d2f1cb1-3a21-71ff-c10c-e27253ba13dc/source/1200x630bb.jpg" group-title="Canales Mexicanos", 15TV Sabinas
-http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png" group-title="Canales Mexicanos", http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Mexicanos", CANAL 15 FRESNILLO
-http://live.zuperdns.net:1935/zuperhosting.live.grupob.canal15fresnillo/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Mexicanos", CANAL 20 ZACATECAS
-http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/chunklist_w1017859043_b1428000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/943986668670894080/a3769um2_400x400.jpg" group-title="Canales Mexicanos", Canal 15 Zacatecas
-http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://telemarcampeche.com/wp-content/uploads/2017/05/logo-TELEMAR-big-110.png" group-title="Canales Mexicanos", Telemar Campeche
 http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/2/2/4/2/224294/224294,640x360,b:2.jpg" group-title="Canales Mexicanos", Sipse TV Cancun
-https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/8846221_300x300.jpg" group-title="Canales Mexicanos", Canal 10 Chetumal
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://noticaribe.com.mx/wp/wp-content/uploads/2017/02/sqcsnuevo_-400x400.png" group-title="Canales Mexicanos", SQCS Chetumal
-http://streamingcws20.com:1935/sqcs/videosqcs/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/06/Canal10-Chiapas-Logo-300x300.jpg" group-title="Canales Mexicanos", Canal 10 Chiapas
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist_w462891777.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Mexicanos", TV HIDALGO
-http://189.204.60.62/hls-live/livepkgr/_definst_/liveevent/mylivestream3.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvgratis.online/wp-content/uploads/2019/03/TMTV.png" group-title="Canales Mexicanos", TMTV
 http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8
 
-#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/4e/ce/4c/4ece4c0c-35ee-0011-2c77-0d39a2ba7c8d/pr_source.png/246x0w.png" group-title="Canales Mexicanos", Canal 4.1
-https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/chunklist_w481386766_b13128000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvcuatro.com/images/producciones/phpqW3swJ.jpg" group-title="Canales Mexicanos", Canal 4.2
-https://5ca3e84a76d30.streamlock.net/tv42/smil:tv42.smil/chunklist_w1657506489_b13128000_sleng.m3u
-
-#EXTINF:-1 tvg-logo="https://ii.ct-stc.com/2/logos/empresas/2016/03/29/6cb2130990c748ada472thumbnail.png" group-title="Canales Mexicanos", Canal 6 (Michoacan)
-http://streamingcws20.com:1935/canal6mich/videocanal6mich/chunklist_w848387750.m3u8
-
-#*****************************
-#*****************************
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JKqx2nK.png" group-title="Canales Peruanos", -[COLOR red]Canales Peruanos[/COLOR]-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oaxSwdU.png" group-title="Canales Peruanos", TV Peru Noticias | SD
-https://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xwbpj7i.jpg" group-title="Canales Peruanos", Ovacion | SD
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vrdMLKJ.jpg" group-title="Canales Peruanos", CTC TV Cusco | HD
-http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a5eXzyx.png" group-title="Canales Peruanos", BHTV | SD
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JuJyG1P.png" group-title="Canales Peruanos", Antares TV | SD
-http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Irldkyg.png" group-title="Canales Peruanos", Cultura 24 TV | SD
-http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z7cueNf.png" group-title="Canales Peruanos", Top Latino | SD
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Irldkyg.png" group-title="Canales Peruanos", Cultura 24 TV | HD
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nVxy63g.jpg" group-title="Canales Peruanos", Monterrico TV | FHD
-http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wsUuUjB.png" group-title="Canales Peruanos", Ipe | HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NdBHjyC.png" group-title="Canales Peruanos", Panamericana | SD
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uwee0UJ.png" group-title="Canales de Musica", -[COLOR red]Canales de Musica[/COLOR]-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Canales de Musica", Music Choice | HD
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uFbyigf.png" group-title="Canales de Musica", M2O TV | SD
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xZSz9Yt.png" group-title="Canales de Musica", Retro TV | SD
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VG3m7v1.jpg" group-title="Canales de Musica", Capital TV | SD
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/89HKXuS.jpg" group-title="Canales de Musica", La Super TV | SD
-http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wpzgjWt.png" group-title="Canales de Musica", Radio Sanborja (Peru) | SD
-https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OXgDjwN.png" group-title="Canales de Musica", Radio Bruno (Italia) | SD
-http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xsspfDW.png" group-title="Canales de Musica", Radio Contact Feel Good | HD
-http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QECto3J.png" group-title="Canales de Musica", Klipkar TV | HD
-https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream01/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/63s1k43.png" group-title="Canales de Musica", Portal FoxMix | HD
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eqZ0en3.png" group-title="Canales de Musica", RUTV | HD
-https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aia6lhQ.png" group-title="Canales de Musica", Video Clips Mix 24/7 | SD
-https://593b04c4c5670.streamlock.net/8026/8026/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3uI1rvO.jpg" group-title="Canales de Musica", VC Online | HD
-https://593b04c4c5670.streamlock.net/8068/8068/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eTB4hQj.png" group-title="Canales de Musica", Portal Foxmix TV | HD
-http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bCe9BVL.jpg" group-title="Canales de Musica", California Music Channel | HD
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1uo5CkR.png" group-title="Canales de Musica", Box TV | SD
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1uo5CkR.png" group-title="Canales de Musica", Box Up Front | SD
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxupfront-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxupfront/
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1uo5CkR.png" group-title="Canales de Musica", Box Hits | SD
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x9GGVuO.png" group-title="Canales de Musica", 4Music | HD
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,4music-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/4music/
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d1GuLT1.png" group-title="Canales de Musica", Kiss | HD
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ee4rQ3u.png" group-title="Canales de Musica", Magic | HD
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bF90pTe.png" group-title="Canales de Musica", Kerrang | HD
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NAkaZk4.gif" group-title="Canales de Musica", Music Top | HD
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s38aC2U.png" group-title="Canales de Musica", MTV | HD
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V5iyQQb.jpg" group-title="Canales de Musica", Frecuencia Musical | HD
-http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oQXZ031.png" group-title="Canales de Musica", Radio 105 TV | SD
-http://fms.105.net:1935/live/105Test1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mAdCfHs.png" group-title="Canales de Musica", Mezzo | SD
 http://ott-cdn.ucom.am/s35/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XX9A1OQ.jpg" group-title="Canales de Musica", DJIng Avicii | HD
-https://www.djing.com/tv/session_avicii.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XX9A1OQ.jpg" group-title="Canales de Musica", DJIng Hedonist | HD
 https://www.djing.com/tv/s-28479-03-hedonist.m3u8
@@ -1177,12 +276,6 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r0tuG2r.jpg" group-title="Canales de Musica", Ocko Expres | SD
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xZRrYhX.png" group-title="Canales de Musica", Rock TV | SD
-https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2EKvyxY.png" group-title="Canales de Musica", System Radio TV | HD
-http://str03.fluidstream.net/RadioSystemTV/livestream/chunklist_w187182628.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ymqDUXV.jpg" group-title="Canales de Musica", Radio Piterpan TV | HD
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/chunklist_w197826966.m3u8
 
@@ -1194,23 +287,6 @@ https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/chunklist_w13018
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k148m11.jpg" group-title="Canales de Musica", Radio Sorriso TV | HD
 https://56b50ada2d659.streamlock.net/RadioSorrrisoTV/livestream/chunklist_w800169359.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T6YU2mL.jpg" group-title="Canales de Musica", Radio Capital TiVu | SD (Italia)
-https://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FkCthMZ.png" group-title="Canales de Musica", Radio 105 Network TV | SD (Italia)
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YJxFf3X.png" group-title="Canales de Musica", Deejay TV | SD (Italia)
-http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9QxeUtO.png" group-title="Canales de Musica", RN1 TV | HD (Italia)
-http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iUiHLo4.png" group-title="Canales de Musica", Radio Linea TV | HD (Italia)
-https://dcunilive30-lh.akamaihd.net/i/dclive_1@653084/index_150_av-p.m3u8?sd=6&rebase=on
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Wq5Wanm.jpg" group-title="Canales de Musica", Standby TV | SD
-http://176.31.226.78:1935/standbytvlive/stream1.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0d9OjHQ.jpg" group-title="Canales de Musica", Company TV | HD
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
