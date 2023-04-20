@@ -3,10 +3,13 @@
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="WOWTV.sv" tvg-country="PE;SV" tvg-language="Spanish" tvg-logo="https://forounivers.com/uploads/monthly_2020_05/large.wowtv2020.png.4fa9c9f8cb5ec86eb2b81a45780bdc93.png" group-title="General",WOW TV (576p) [Not 24/7]
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports",Red Bull TV (1080p)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
 #EXTINF:-1 tvg-id="RegionTVCallao.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/regiontv/picture?width=320&height=320" group-title="Undefined",Región TV (Callao) (480p) [Not 24/7]
 https://servilive.com:3757/live/regiontvlive.m3u8
+
+#EXTINF:-1 tvg-id="GeniosTVMoyobamba.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/geniostvmoyobamba/picture?width=320&height=320" group-title="Undefined",Genios TV (Moyobamba) (720p) [Not 24/7]
+https://live.obslivestream.com/geniostvmux/index.m3u8
+
 #EXTINF:-1 tvg-id="1118" tvg-name="Panamericana" tvg-logo="https://www.m3u.cl/logo/1118_Panamericana.png", Panamericana | PE
 https://cdnh71.iblups.com/hls/ptv2.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="705" tvg-name="TV Peru Noticias" tvg-logo="https://www.m3u.cl/logo/705_TV_Peru_Noticias.png", TV Peru Noticias | PE
@@ -58,8 +61,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="GalacticaTVPeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/RCGalacticatv/picture?width=320&height=320" group-title="Music",Galáctica TV (Peru) (1080p) [Not 24/7]
 https://pacific.direcnode.com:3715/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="GeniosTVMoyobamba.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/geniostvmoyobamba/picture?width=320&height=320" group-title="Undefined",Genios TV (Moyobamba) (720p) [Not 24/7]
-https://live.obslivestream.com/geniostvmux/index.m3u8
+
 #EXTINF:-1 tvg-id="HiperconectadosTV.cl" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/hiperconectadostv/picture?width=320&height=320" group-title="Science",Hiperconectados Televisión (720p)
 https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
 
@@ -163,9 +165,6 @@ http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PrhB3SI.jpg" group-title="Canales Españoles", TeleSafor | HD
 http://video.telesafor.com/hls/video_high.m3u8
 
-#EXTINF:-1 tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Galicia-TV/Galicia-TV_.jpg" group-title="Canales Españoles", TV GALICIA
-http://america-crtvg.flumotion.com/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eGvLDVR.png" group-title="Canales Mexicanos", Canal 10 Chetumal | HD
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
@@ -186,21 +185,6 @@ http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YixQ4l.png" group-title="Canales Mexicanos", Telemar Campeche | SD
 http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://nrtmexico.mx/site/images/sampledata/icetheme/slideshow/c4_slide_a.jpg" group-title="Canales Mexicanos", Canal 4 Monclova
-http://162.241.190.126:1935/live/canal4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.rcgespectaculares.com.mx/images/rcg-logo-2014-288.png" group-title="Canales Mexicanos", RCG TV2
-http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png" group-title="Canales Mexicanos", http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-
-#EXTINF:-1 tvg-logo="http://telemarcampeche.com/wp-content/uploads/2017/05/logo-TELEMAR-big-110.png" group-title="Canales Mexicanos", Telemar Campeche
-http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/8846221_300x300.jpg" group-title="Canales Mexicanos", Canal 10 Chetumal
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/06/Canal10-Chiapas-Logo-300x300.jpg" group-title="Canales Mexicanos", Canal 10 Chiapas
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist_w462891777.m3u8
@@ -574,8 +558,6 @@ https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8?PlaylistM
 #EXTINF:-1 tvg-id="1100" tvg-name="DEPORTV" tvg-logo="https://i2.paste.pics/7b99edf751cc110abb5fd3f040e558b8.png", DEPORTV | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="493" tvg-name="Net TV" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png", Net TV | AR
-https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="492" tvg-name="TV Publica" tvg-logo="https://lh3.googleusercontent.com/-0K_G9JiAw-I/XkCUfNx8kmI/AAAAAAAAv8Y/eK0_8koGnZYLy58qtmUqW26VOZjRqqV8gCK8BGAsYHg/s0/2020-02-09.png", TV Publica | AR
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8?PlaylistM3UCL
 
@@ -599,5 +581,4 @@ https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8?PlaylistM3UCL
 https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1058" tvg-name="Spectrum Channel" tvg-logo="https://i.paste.pics/ac458f828b6eb862c9842d8a114db060.png", Spectrum Channel | CL
-https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
