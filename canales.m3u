@@ -1077,8 +1077,7 @@ https://streamtv2.elitecomunicacion.cloud:3956/live/arabitvlive.m3u8
 https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 #EXTINF:-1 tvg-id="ETBSAT.TV" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="Int. Europa" tvg-name="EITB Basque",EITB Basque
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
-#EXTINF:-1 tvg-id="TVGA.TV" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="Int. Europa" tvg-name="TVG América",TVG América
-https://america-crtvg.flumotion.com/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="Int. Europa" tvg-name="Telemadrid Internacional",Telemadrid Internacional
 https://eventos2-telemadrid-live-hls.secure2.footprint.net/egress/chandler/telemadrid/eventos_1/index.m3u8
 #EXTINF:-1 tvg-id="ATVHD.TV" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200" group-title="Int. Europa" tvg-name="ATV Andorra",ATV Andorra
@@ -1103,8 +1102,7 @@ https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/la7fb/picture?width=200&height=200" group-title="Int. Europa" tvg-name="La7d Italia",La7d Italia IT
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
-#EXTINF:-1 tvg-id="DW.TV" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="Int. Europa" tvg-name="DW Alemania",DW Alemania
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
 #EXTINF:-1 tvg-id="DW.TV" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="Int. Europa" tvg-name="DW Alemania",DW Alemania EN
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="DW.TV" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="Int. Europa" tvg-name="DW Alemania",DW Alemania DE
@@ -1140,8 +1138,6 @@ https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Digi24HD/picture?width=200&height=200" group-title="Int. Europa" tvg-name="Digi24 Rumanía",Digi24 Rumanía RO
 https://pubads.g.doubleclick.net/ssai/event/OQfdjUhHSDSlb1fJVzehsQ/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/trthaber/picture?width=200&height=200" group-title="Int. Europa" tvg-name="TRT Haber Turquía",TRT Haber Turquía EN
-https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/trthaber/picture?width=200&height=200" group-title="Int. Europa" tvg-name="TRT Haber Turquía",TRT Haber Turquía
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/PortalRTCG/picture?width=200&height=200" group-title="Int. Europa" tvg-name="RTCG SAT Montenegro",RTCG SAT Montenegro
@@ -1210,8 +1206,6 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta318.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/panamericana.pe/picture?width=200&height=200" group-title="Int. América" tvg-name="Panamericana Perú",Panamericana Perú
-https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200" group-title="Int. América" tvg-name="TV Perú",TV Perú
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200" group-title="Int. América" tvg-name="TV Perú Noticias",TV Perú Noticias
@@ -1317,8 +1311,6 @@ http://170.178.189.70:1935/live/Stream1/playlist.m3u8
 https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/WatchAKCTV/picture?width=200&height=200" group-title="Int. Otros" tvg-name="AKC TV Dogs",AKC TV Dogs EN
 https://video.blivenyc.com/broadcast/prod/2061/29/desktop-playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/RedBull/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="Redbull TV",Redbull TV EN
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/watchstadium/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="Stadium USA",Stadium USA EN
 https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/8036529875f74c81b5f50851bffbc421/playlist_ssaiM.m3u8
@@ -1394,8 +1386,7 @@ https://storage.viewtvgroup.com/vintagetv/GeneSimmonsNickyHornePresents/index.m3
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CaliforniaMusicChannel/picture?width=200&height=200" group-title="Musicales" tvg-name="California Music Channel USA",California Music Channel USA EN
 https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8?device=TDTChannels
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/retromusic/picture?width=200&height=200" group-title="Musicales" tvg-name="Retro Music TV Chequia",Retro Music TV Chequia EN
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" group-title="Musicales" tvg-name="Muzzik TV Serbia",Muzzik TV Serbia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
@@ -1443,8 +1434,7 @@ https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 https://0ba805a2403b4660bbb05c0a210ebbdc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_DittyTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/MySpirittv/picture?width=200&height=200" group-title="Musicales" tvg-name="Spirit TV USA",Spirit TV USA EN
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/ewtnespanol/picture?width=200&height=200" group-title="Religiosos" tvg-name="EWTN España",EWTN España
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ewtnespanol/picture?width=200&height=200" group-title="Religiosos" tvg-name="EWTN España",EWTN España EN
 https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/668768296888631296/H1frmj8P_200x200.jpg" group-title="Religiosos" tvg-name="RTV Diocesana Toledo España",RTV Diocesana Toledo España
